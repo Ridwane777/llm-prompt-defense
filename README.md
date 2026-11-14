@@ -59,3 +59,7 @@ A leak is detected by a case-insensitive match of the secret (or password) in th
 - [OWASP Top 10 for LLM - LLM01: Prompt Injection](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 
 Author: [Ridwane777](https://github.com/Ridwane777)
+
+## License
+
+[MIT](LICENSE)
